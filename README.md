@@ -1,7 +1,9 @@
 # Hello, I am Rain Chen.
 
-![C++](https://img.shields.io/badge/Lang-C++-ff69b4)
-![Mac](https://img.shields.io/badge/System-Mac_OS-9f4bff)
+![Mac](https://img.shields.io/badge/OS-Mac-6495ed)
+![Code](https://img.shields.io/badge/Text-VS_Code-87cefa)
+![C++](https://img.shields.io/badge/Lang-C++-ee83ee)
+![Start](https://img.shields.io/badge/Let's-Start-ff69b4)
 
 A VirtualDancer on the Internet.
 
