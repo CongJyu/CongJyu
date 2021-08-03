@@ -8,5 +8,5 @@
 A VirtualDancer on the Internet.
 
 # My Github Stats.
-![Chen-Rain's github stats](https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=true&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=DEG,6495ed,87cefa,ee83ee,ff69b4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Rain&layout=compact&title_color=ffffff&icon_color=9f4bff&text_color=ffffff&bg_color=DEG,6495ed,87cefa,ee83ee,ff69b4)
+![Chen-Rain's github stats](https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=true&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=DEG,6495ed,87cefa,ee83ee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Rain&layout=compact&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=DEG,ee83ee,ff69b4)
