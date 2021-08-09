@@ -1,6 +1,5 @@
 # Hello, I am Rain Chen.
 
-
 ![Mac](https://img.shields.io/badge/OS-Mac-99ccff)
 ![Code](https://img.shields.io/badge/Text-VS_Code-b9ccff)
 ![IDE](https://img.shields.io/badge/IDE-Xcode-e5ccff)
