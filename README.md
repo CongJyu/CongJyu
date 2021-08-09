@@ -2,8 +2,8 @@
 
 ![Mac](https://img.shields.io/badge/OS-Mac-99ccff)
 ![Code](https://img.shields.io/badge/Text-VS_Code-b9ccff)
-![C++](https://img.shields.io/badge/Lang-C++-e5ccff)
-![Start](https://img.shields.io/badge/Let's-Start-ffccff)
+![IDE](https://img.shields.io/badge/IDE-Xcode-e5ccff)
+![C++](https://img.shields.io/badge/Lang-C++-ffccff)
 
 A VirtualDancer on the Internet.
 
