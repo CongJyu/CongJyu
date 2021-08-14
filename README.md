@@ -7,7 +7,7 @@
     <a href=https://img.shields.io/badge/Lang-C++-ffccff><img src="https://img.shields.io/badge/Lang-C++-ffccff.svg"></a>
 </p>
 
-A VirualDancer on the Internet
+A VirtualDancer on the Internet
 
 # My GitHub Stats.
 
