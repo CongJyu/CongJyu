@@ -11,6 +11,8 @@ A VirtualDancer on the Internet
 
 # My GitHub Stats.
 
-![Chen-Rain's github stats](https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=true&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Rain&layout=compact&title_color=9745f5&text_color=000000&icon_color=9f4bff&bg_color=DEG,e5ccff,ffccff)
+![Chen-Rain's github stats](https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff)
 
+# Top Languages.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Rain&layout=compact&title_color=9745f5&text_color=000000&icon_color=9f4bff&bg_color=DEG,b0ccff,e5ccff,ffccff)
