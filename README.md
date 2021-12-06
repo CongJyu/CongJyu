@@ -1,8 +1,8 @@
 # Hello, I am Rain Chen.
 
 <p align="left">
-    <a href=https://img.shields.io/badge/OS-Mac-99ccff><img src="https://img.shields.io/badge/OS-Mac-99ccff.svg"></a>
-    <a href=https://img.shields.io/badge/Text-VS_Code-b9ccff><img src="https://img.shields.io/badge/Text-VS_Code-b9ccff.svg"></a>
+    <a href=https://img.shields.io/badge/Using-macOS-99ccff><img src="https://img.shields.io/badge/Using-macOS-99ccff.svg"></a>
+    <a href=https://img.shields.io/badge/Using-Linux-b9ccff><img src="https://img.shields.io/badge/Using-Linux-b9ccff.svg"></a>
     <a href=https://img.shields.io/badge/IDE-Xcode-e5ccff><img src="https://img.shields.io/badge/IDE-Xcode-e5ccff.svg"></a>
     <a href=https://img.shields.io/badge/Lang-C++-ffccff><img src="https://img.shields.io/badge/Lang-C++-ffccff.svg"></a>
 </p>
