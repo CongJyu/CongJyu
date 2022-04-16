@@ -21,4 +21,7 @@ A VirtualDancer on the Internet
     <img alt="Python" src="https://img.shields.io/badge/-Python-456C93?style=flat&logo=Python&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-2C3438?style=flat&logo=Rust&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/-Java-CD2C1E?style=flat&logo=Java&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E06E3C?style=flat&logo=HTML5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3964E8?style=flat&logo=CSS3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DD4A?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
