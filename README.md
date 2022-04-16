@@ -18,6 +18,7 @@ A VirtualDancer on the Internet
     <img alt="C++" src="https://img.shields.io/badge/-C++-1C437E?style=flat&logo=CPLUSPLUS&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/-C-1C437E?style=flat&logo=C&logoColor=white"/>
     <img alt="Fortran" src="https://img.shields.io/badge/-Fortran-6C5090?style=flat&logo=Fortran&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/-Python-456C93?style=flat&logo=Python&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-2C3438?style=flat&logo=Rust&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-CD2C1E?style=flat&logo=Java&logoColor=white"/>
 </p>
