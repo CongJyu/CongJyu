@@ -5,7 +5,7 @@
 <p align="left">
     <a href=https://img.shields.io/badge/Using-macOS-99ccff><img src="https://img.shields.io/badge/Using-macOS-99ccff.svg"></a>
     <a href=https://img.shields.io/badge/Using-Linux-b9ccff><img src="https://img.shields.io/badge/Using-Linux-b9ccff.svg"></a>
-    <a href=https://img.shields.io/badge/Using-Xcode-e5ccff><img src="https://img.shields.io/badge/Using-Xcode-e5ccff.svg"></a>
+    <a href=https://img.shields.io/badge/Using-Jetbrains_IDEs-e5ccff><img src="https://img.shields.io/badge/Using-JetBrains_IDEs-e5ccff.svg"></a>
     <a href=https://img.shields.io/badge/Using-Visual_Studio_Code-ffccff><img src="https://img.shields.io/badge/Using-Visual_Studio_Code-ffccff.svg"></a>
 </p>
 
