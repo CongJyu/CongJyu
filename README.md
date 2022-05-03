@@ -2,26 +2,25 @@
 
 <img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
 
-<p align="left">
-    <a href=https://img.shields.io/badge/Using-macOS-99ccff><img src="https://img.shields.io/badge/Using-macOS-99ccff.svg"></a>
-    <a href=https://img.shields.io/badge/Using-Linux-b9ccff><img src="https://img.shields.io/badge/Using-Linux-b9ccff.svg"></a>
-    <a href=https://img.shields.io/badge/Using-Xcode-e5ccff><img src="https://img.shields.io/badge/Using-Xcode-e5ccff.svg"></a>
-    <a href=https://img.shields.io/badge/Using-Visual_Studio_Code-ffccff><img src="https://img.shields.io/badge/Using-Visual_Studio_Code-ffccff.svg"></a>
-</p>
-
 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 A VirtualDancer on the Internet
+
+![macOS Monterey](https://img.shields.io/badge/macOS-Monterey-AA2FCC?style=for-the-badge&logo=apple&logoColor=white)
+
+![Debian](https://img.shields.io/badge/Debian-11.3-981E32?style=for-the-badge&logo=debian&logoColor=white)
+
+![Windows 11](https://img.shields.io/badge/Windows-11-3577D9?style=for-the-badge&logo=microsoft&logoColor=white)
 
 # Most Used Languages.
 
 <p align="left">
-    <img alt="C++" src="https://img.shields.io/badge/-C++-1C437E?style=flat&logo=CPLUSPLUS&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/-C-1C437E?style=flat&logo=C&logoColor=white"/>
-    <img alt="Fortran" src="https://img.shields.io/badge/-Fortran-6C5090?style=flat&logo=Fortran&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-456C93?style=flat&logo=Python&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-2C3438?style=flat&logo=Rust&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-CD2C1E?style=flat&logo=Java&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E06E3C?style=flat&logo=HTML5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3964E8?style=flat&logo=CSS3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DD4A?style=flat&logo=JavaScript&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/-C++-1C437E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/-C-1C437E?style=for-the-badge&logo=C&logoColor=white"/>
+    <img alt="Fortran" src="https://img.shields.io/badge/-Fortran-6C5090?style=for-the-badge&logo=Fortran&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-456C93?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-2C3438?style=for-the-badge&logo=Rust&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-CD2C1E?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E06E3C?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3964E8?style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DD4A?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </p>
