@@ -7,7 +7,7 @@ A VirtualDancer on the Internet
 
 ![macOS Monterey](https://img.shields.io/badge/macOS-Monterey-AA2FCC?style=for-the-badge&logo=apple&logoColor=white)
 
-![Debian](https://img.shields.io/badge/Debian-11.3-981E32?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=fedora&logoColor=white)
 
 ![Windows 11](https://img.shields.io/badge/Windows-11-3577D9?style=for-the-badge&logo=microsoft&logoColor=white)
 
