@@ -3,7 +3,6 @@
 <img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
 
 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
-A VirtualDancer on the Internet
 
 ![macOS Monterey](https://img.shields.io/badge/macOS-Monterey-AA2FCC?style=for-the-badge&logo=apple&logoColor=white)
 
