@@ -1,18 +1,16 @@
-# Hello, world!
-
-<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
-
-## I'm Rain Chen.
+# I'm Rain Chen.
 
 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 
-### Operating Systems:
+<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
+
+## Operating Systems:
 
 ![macOS Monterey](https://img.shields.io/badge/macOS-Monterey-AA2FCC?style=for-the-badge&logo=apple&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=fedora&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows-11-3577D9?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Languages:
+## Languages:
 
 <p align="left">
     <img alt="C++" src="https://img.shields.io/badge/C++-1C437E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
