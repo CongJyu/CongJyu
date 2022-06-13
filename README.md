@@ -1,11 +1,6 @@
-<center>
-    <font size=150>
-        Hello, world!
-    </font>
-</center>
+# Hello, world!
 
 <img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=Chen-Rain&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
-
 
 ## I'm Rain Chen.
 
