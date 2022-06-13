@@ -6,7 +6,9 @@
 
 <p align="left">
     <img alt="macOS" src="https://img.shields.io/badge/macOS-Montorey-AA2FCC?style=for-the-badge&logo=Apple&logoColor=white"/>
+    </br>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
+    </br>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-11-3577D9?style=for-the-badge&logo=Microsoft&logoColor=white"/>
 </p>
 
