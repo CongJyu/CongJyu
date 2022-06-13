@@ -15,16 +15,16 @@
 ## Languages:
 
 <p align="left">
-    <img alt="C++" src="https://img.shields.io/badge/C++-1C437E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-1C437E?style=for-the-badge&logo=C&logoColor=white"/>
-    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-6C5090?style=for-the-badge&logo=Fortran&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-456C93?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-2C3438?style=for-the-badge&logo=Rust&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-CD2C1E?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logo=C&logoColor=white"/>
+    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge&logo=Fortran&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-D5A789?style=for-the-badge&logo=Rust&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge&logo=Java&logoColor=white"/>
     </br>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E06E3C?style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-3964E8?style=for-the-badge&logo=CSS3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DD4A?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-D35735?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-523E78?style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EEE170?style=for-the-badge&logo=JavaScript&logoColor=white"/>
     </br>
     <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-CB301E?style=for-the-badge&logo=Wolfram&logoColor=white"/>
 </p>
