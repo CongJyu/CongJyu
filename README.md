@@ -4,11 +4,11 @@
 
 ## Operating Systems:
 
-![macOS Monterey](https://img.shields.io/badge/macOS-Monterey-AA2FCC?style=for-the-badge&logo=apple&logoColor=white)
-
-![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=fedora&logoColor=white)
-
-![Windows 11](https://img.shields.io/badge/Windows-11-3577D9?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+    <img alt="macOS" src="https://img.shields.io/badge/macOS-Montorey-AA2FCC?style=for-the-badge&logo=Apple&logoColor=white"/>
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-11-3577D9?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+</p>
 
 ## Languages:
 
@@ -17,7 +17,6 @@
     <img alt="C" src="https://img.shields.io/badge/C-1C437E?style=for-the-badge&logo=C&logoColor=white"/>
     <img alt="Fortran" src="https://img.shields.io/badge/Fortran-6C5090?style=for-the-badge&logo=Fortran&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-456C93?style=for-the-badge&logo=Python&logoColor=white"/>
-    </br>
     <img alt="Rust" src="https://img.shields.io/badge/Rust-2C3438?style=for-the-badge&logo=Rust&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-CD2C1E?style=for-the-badge&logo=Java&logoColor=white"/>
     </br>
