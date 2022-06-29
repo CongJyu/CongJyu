@@ -9,7 +9,7 @@
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
 </p>
 
-## Languages:
+## I am learning:
 
 <p align="left">
     <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
