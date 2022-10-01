@@ -4,15 +4,10 @@
 
 ## I am using:
 
-### OS:
-
 <p align="left">
     <img alt="macOS" src="https://img.shields.io/badge/macOS-12-AA2FCC?style=for-the-badge&logo=Apple&logoColor=white"/>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
 </p>
-
-### Languages:
-
 <p align="left">
     <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logo=C&logoColor=white"/>
