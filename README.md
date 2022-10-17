@@ -12,7 +12,6 @@
 <p align="left">
     <img alt="macOS" src="https://img.shields.io/badge/macOS-12-AA2FCC?style=for-the-badge&logo=Apple&logoColor=white"/>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-11-306FC9?style=for-the-badge&logo=Microsoft&logoColor=white"/>
 </p>
 
 <p align="left">
