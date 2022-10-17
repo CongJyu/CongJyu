@@ -15,9 +15,9 @@
 </p>
 
 <p align="left">
-    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logo=C&logoColor=white"/>
-    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge&logo=Fortran&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logoColor=white"/>
+    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge&logoColor=white"/>
 </p>
