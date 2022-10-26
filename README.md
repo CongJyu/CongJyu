@@ -10,7 +10,7 @@
 ## I am using:
 
 <p align="left">
-    <img alt="macOS" src="https://img.shields.io/badge/macOS-12-AA2FCC?style=for-the-badge&logo=Apple&logoColor=white"/>
+    <img alt="macOS" src="https://img.shields.io/badge/macOS-Ventura-F98958?style=for-the-badge&logo=Apple&logoColor=white"/>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
 </p>
 
