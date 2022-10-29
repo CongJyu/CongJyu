@@ -10,14 +10,14 @@
 ## I am using:
 
 <p align="left">
-    <img alt="macOS" src="https://img.shields.io/badge/macOS-Ventura-F98958?style=flat-square&logo=Apple&logoColor=white"/>
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=flat-square&logo=Fedora&logoColor=white"/>
+    <img alt="macOS" src="https://img.shields.io/badge/macOS-Ventura-F98958?style=for-the-badge&logo=Apple&logoColor=white"/>
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
 </p>
 
 <p align="left">
-    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=flat-square&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=flat-square&logoColor=white"/>
-    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=flat-square&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=flat-square&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=flat-square&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logoColor=white"/>
+    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge&logoColor=white"/>
 </p>
