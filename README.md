@@ -20,9 +20,9 @@
 ### Languages
 
 <p align="left">
-    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logoColor=white"/>
-    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge&logo=fortran&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
