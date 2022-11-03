@@ -6,14 +6,19 @@
 
 - Cantonese
 - English
+- Chinese (Mandarin)
 
 ## I am using:
+
+### Operating Systems
 
 <p align="left">
     <img alt="macOS" src="https://img.shields.io/badge/macOS-Ventura-F98958?style=for-the-badge&logo=Apple&logoColor=white"/>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-11-3171CF?style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
+
+### Languages
 
 <p align="left">
     <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge"/>
