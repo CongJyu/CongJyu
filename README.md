@@ -16,7 +16,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-3171CF?style=for-the-badge&logo=Windows&logoColor=white)
 
-### Programming Languages
+### Languages
 
 ![C++](https://img.shields.io/badge/C++-E1587E?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-4E4E4E?style=for-the-badge)
