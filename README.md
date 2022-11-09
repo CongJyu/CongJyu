@@ -12,18 +12,19 @@
 
 ### Operating Systems
 
-<p align="left">
-    <img alt="macOS" src="https://img.shields.io/badge/macOS-Ventura-F98958?style=for-the-badge&logo=Apple&logoColor=white"/>
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-11-3171CF?style=for-the-badge&logo=Windows&logoColor=white"/>
-</p>
+![macOS](https://img.shields.io/badge/macOS-Ventura-F98958?style=for-the-badge&logo=Apple&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-11-3171CF?style=for-the-badge&logo=Windows&logoColor=white)
 
 ### Languages
 
-<p align="left">
-    <img alt="C++" src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge"/>
-    <img alt="C" src="https://img.shields.io/badge/C-4E4E4E?style=for-the-badge"/>
-    <img alt="Fortran" src="https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-4571A1?style=for-the-badge"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-A7752F?style=for-the-badge"/>
-</p>
+![C++](https://img.shields.io/badge/C++-E1587E?style=for-the-badge)
+![C](https://img.shields.io/badge/C-4E4E4E?style=for-the-badge)
+![Fortran](https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-4571A1?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-A7752F?style=for-the-badge)
+
+### IDEs
+
+![Jetbrains](https://img.shields.io/badge/Jetbrains_IDE-3E3E3E?style=for-the-badge&logo=Jetbrains&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-66A0D5?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
