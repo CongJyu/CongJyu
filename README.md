@@ -27,4 +27,4 @@
 ### IDEs
 
 ![Jetbrains](https://img.shields.io/badge/Jetbrains_IDE-3E3E3E?style=for-the-badge&logo=Jetbrains&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-66A0D5?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-4B9AE9?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
