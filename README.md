@@ -12,9 +12,9 @@
 
 ### Operating Systems
 
-![macOS](https://img.shields.io/badge/macOS-Ventura-F98958?style=for-the-badge&logo=Apple&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-11-3171CF?style=for-the-badge&logo=Windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac_OS_Ventura-555555?style=for-the-badge&logo=Apple&logoColor=white&labelColor=F98958)
+![Fedora](https://img.shields.io/badge/Fedora_36-555555?style=for-the-badge&logo=Fedora&logoColor=white&labelColor=66A0D5)
+![Windows](https://img.shields.io/badge/Windows_11-555555?style=for-the-badge&logo=Windows&logoColor=white&labelColor=3171CF)
 
 ### Languages
 
@@ -27,5 +27,8 @@
 
 ### IDEs
 
-![Jetbrains](https://img.shields.io/badge/Jetbrains_IDE-3E3E3E?style=for-the-badge&logo=Jetbrains&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-4B9AE9?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-555555?style=for-the-badge&logo=clion&logoColor=black&labelColor=52B1BB)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-555555?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=EFA1E8)
+![PyCharm](https://img.shields.io/badge/PyCharm-555555?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=98E37C)
+![WebStorm](https://img.shields.io/badge/WebStorm-555555?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=61CDF0)
+![VSCode](https://img.shields.io/badge/VS_Code-555555?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=4B9AE9)
