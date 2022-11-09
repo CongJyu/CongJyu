@@ -8,7 +8,7 @@
 - English
 - Chinese (Mandarin)
 
-## I am using:
+## I am learning and using:
 
 ### Operating Systems
 
@@ -22,6 +22,7 @@
 ![C](https://img.shields.io/badge/C-4E4E4E?style=for-the-badge)
 ![Fortran](https://img.shields.io/badge/Fortran-4C41AB?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-4571A1?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-D5A789?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-A7752F?style=for-the-badge)
 
 ### IDEs
