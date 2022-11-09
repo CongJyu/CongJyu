@@ -1,4 +1,4 @@
-# I'm Rain Chen.
+# Hi, I'm Rain Chen.
 
 <img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=CongJyu&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
 
@@ -16,7 +16,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-36-66A0D5?style=for-the-badge&logo=Fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-3171CF?style=for-the-badge&logo=Windows&logoColor=white)
 
-### Languages
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-E1587E?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-4E4E4E?style=for-the-badge)
