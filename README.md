@@ -13,7 +13,7 @@
 ### Operating Systems
 
 ![macOS](https://img.shields.io/badge/mac_OS_Ventura-3E3E3E?style=for-the-badge&logo=Apple&logoColor=white&labelColor=D95E2E)
-![Fedora](https://img.shields.io/badge/Fedora_36-3E3E3E?style=for-the-badge&logo=Fedora&logoColor=white&labelColor=66A0D5)
+![Manjaro](https://img.shields.io/badge/Manjaro-3E3E3E?style=for-the-badge&logo=Manjaro&logoColor=white&labelColor=62BCA5)
 ![Windows](https://img.shields.io/badge/Windows_11-3E3E3E?style=for-the-badge&logo=Windows&logoColor=white&labelColor=3171CF)
 
 ### Languages
