@@ -1,6 +1,6 @@
 # Hi, I'm Rain Chen.
 
-<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=CongJyu&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&border_color=DEG,99ccff,b0ccff,e5ccff,ffccff&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
+<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=CongJyu&show_icons=true&hide_title=false&title_color=9745f5&icon_color=9f4bff&text_color=000000&border_color=9745f5&bg_color=DEG,99ccff,b0ccff,e5ccff,ffccff">
 
 ## Please contact me in:
 
