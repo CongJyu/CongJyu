@@ -31,3 +31,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-3E3E3E?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=EFA1E8)
 ![CLion](https://img.shields.io/badge/CLion-3E3E3E?style=for-the-badge&logo=clion&logoColor=black&labelColor=52B1BB)
 ![PyCharm](https://img.shields.io/badge/PyCharm-3E3E3E?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=98E37C)
+![WebStorm](https://img.shields.io/badge/WebStorm-3E3E3E?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=65D4F1)
