@@ -14,7 +14,7 @@
     <summary>Operating Systems</summary>
     <ul>
         <img src="https://img.shields.io/badge/mac_OS_Ventura-3E3E3E?style=for-the-badge&logo=Apple&logoColor=white&labelColor=D95E2E" alt="macOS Ventura">
-        <img src="https://img.shields.io/badge/Manjaro-3E3E3E?style=for-the-badge&logo=Manjaro&logoColor=white&labelColor=62BCA5" alt="Manjaro">
+        <img src="https://img.shields.io/badge/Debian_11-3E3E3E?style=for-the-badge&logo=Debian&logoColor=white&labelColor=9A1E33" alt="Debian">
         <img src="https://img.shields.io/badge/Windows_11-3E3E3E?style=for-the-badge&logo=Windows&logoColor=white&labelColor=3171CF" alt="Windows 11">
     </ul>
 </details>
