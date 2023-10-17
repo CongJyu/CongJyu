@@ -41,7 +41,3 @@
         <img src="https://img.shields.io/badge/WebStorm-3E3E3E?style=for-the-badge&logo=webstorm&logoColor=black&labelColor=65D4F1" alt="WebStorm">
     </ul>
 </details>
-
-<br>
-
-<img src="Written-By-Human-Not-By-AI-Badge-white.svg" alt="not by ai">
