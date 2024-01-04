@@ -23,7 +23,6 @@
             <td>
                 <img src="./img/macOS-3E3E3E.svg" alt="macOS">
                 <img src="./img/Debian-3E3E3E.svg" alt="Debian">
-                <img src="./img/Windows-3E3E3E.svg" alt="Windows">
             </td>
             <td>
                 <img src="./img/C++-E1587E.svg" alt="C++">
