@@ -21,8 +21,12 @@
     <tbody>
         <tr>
             <td>
+                <!---
+                <img src="https://img.shields.io/badge/Arch_Linux-3E3E3E?style=flat&logo=archlinux&logoColor=white" alt="Arch">
+                <img src="https://img.shields.io/badge/macOS-3E3E3E?style=flat&logo=apple&logoColor=white" alt="macOS">
+                -->
                 <img src="./img/macOS-3E3E3E.svg" alt="macOS">
-                <img src="./img/Debian-3E3E3E.svg" alt="Debian">
+                <img src="./img/Arch_Linux-3E3E3E.svg" alt="Arch Linux">
             </td>
             <td>
                 <img src="./img/C++-E1587E.svg" alt="C++">
