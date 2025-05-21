@@ -1,12 +1,10 @@
 # Hi, I'm Rain Chen.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CongJyu&card_width=450&show_icons=true&hide_title=false&title_color=4f3a9d&icon_color=592b7a&text_color=8a53b0&hide_border=true&bg_color=25,e0eeff,c1ddff,e1e0ff,ffe4ff,f8ebff" alt="GitHub Stats">
-
 ## Please contact me in:
 
 - Cantonese
 - English
-- Chinese Mandarin
+- Mandarin Chinese
 
 ## I am learning and using:
 
