@@ -1,4 +1,8 @@
-# Hi, I'm Rain Chen.
+# Rain Chen
+
+- Hi, I'm Rain.
+- 哈囉，我係 Rain。
+- こんにちは、私は Rain です。
 
 ## Please contact me in:
 
