@@ -2,7 +2,7 @@
 
 - Hi, I'm Rain.
 - 哈囉，我係 Rain。
-- こんにちは、私は Rain です。
+- こんにちは、Rain です。
 
 ## Please contact me in:
 
