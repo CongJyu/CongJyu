@@ -21,7 +21,7 @@
                 <li>Mandarin
             </td>
             <td>
-                <li>macOS, Arch Linux<br>
+                <li>macOS, Arch Linux, Ubuntu Server<br>
                 <li>VS Code, PyCharm, CLion, IntelliJ IDEA<br>
                 <li>C++, C, Python, Fortran
             </td>
