@@ -5,7 +5,7 @@
         <tr>
             <th>👋 Nice To Meet You</th>
             <th>🌎 Please Contact Me In</th>
-            <th>📚 Currently Learning And Using</th>
+            <th>📚 Currently Using</th>
         </tr>
     </thead>
     <tbody>
@@ -23,7 +23,7 @@
             <td>
                 <li>macOS, Arch Linux, Ubuntu Server<br>
                 <li>VS Code, PyCharm, CLion, IntelliJ IDEA<br>
-                <li>C++, C, Python, Fortran
+                <li>Python, C++, C, Fortran
             </td>
         </tr>
     </tbody>
