@@ -29,14 +29,4 @@
     </tbody>
 </table>
 
-<style>
-    .badge {
-        transition: transform 0.2s ease;
-    }
-
-    .badge:hover {
-        transform: scale(1.2);
-    }
-</style>
-
-<img class="badge" width="32" height="32" src="./badges/MUSTLUG.png" alt="MUSTLUG" title="M.U.S.T. LUG"> <img class="badge" width="32" height="32" src="./badges/PyConHK.png" alt="PyCon HK" title="PyCon HK 2025"> <img class="badge" width="32" height="32" src="./badges/OSHK.png" alt="Open Source HK" title="Open Source Hong Kong"> <img class="badge" width="32" height="32" src="./badges/PythonAsia.png" alt="PythonAsia" title="Python Asia">
+<img class="badge" width="48" height="48" src="./badges/MUSTLUG.png" alt="MUSTLUG" title="M.U.S.T. LUG"> <img class="badge" width="48" height="48" src="./badges/PyConHK.png" alt="PyCon HK" title="PyCon HK 2025"> <img class="badge" width="48" height="48" src="./badges/OSHK.png" alt="Open Source HK" title="Open Source Hong Kong"> <img class="badge" width="48" height="48" src="./badges/PythonAsia.png" alt="PythonAsia" title="Python Asia">
