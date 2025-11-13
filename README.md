@@ -11,7 +11,7 @@
     <tbody>
         <tr>
             <td>
-                <li>Hi, I'm Rain.<br>
+                <li>Hello, I'm Rain.<br>
                 <li>哈囉，我係 Rain。<br>
                 <li>こんにちは、Rain です。
             </td>
@@ -23,7 +23,7 @@
             <td>
                 <li>macOS, Arch Linux, Ubuntu Server<br>
                 <li>VS Code, PyCharm, CLion, IntelliJ IDEA<br>
-                <li>Python, C++, C, Fortran
+                <li>Python, C++, C, <del>Fortran</del>
             </td>
         </tr>
     </tbody>
